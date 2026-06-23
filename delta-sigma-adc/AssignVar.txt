@@ -1,0 +1,19 @@
+% 1. Define variables in the MATLAB workspace
+F_out = 1000;
+F_in  = 13;
+A_in  = 0.66;
+T_sim = 2;
+DC_in = 0.5;
+
+% (Assuming a specific OSR for the assignment)
+OSR = 64; 
+F_s = F_out * OSR;
+
+% 2. Assign variables to the Simulink base workspace
+assignin('base', 'OSR', OSR);
+assignin('base', 'F_s', F_s);
+assignin('base', 'F_out', F_out);
+assignin('base', 'F_in', F_in);
+assignin('base', 'A_in', A_in);
+assignin('base', 'T_sim', T_sim);
+assignin('base', 'DC_in', DC_in);
