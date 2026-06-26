@@ -1,4 +1,7 @@
 # 🚀 Delta-Sigma ADC
+
+[![DOI](https://zenodo.org/badge/1277797819.svg)](https://doi.org/10.5281/zenodo.20928318)
+
 A MATLAB/Simulink and LTspice-based implementation of a **1-bit First-Order Delta-Sigma Analog-to-Digital Converter (ΔΣ ADC)** developed for the **IIT Ropar's Internal Hackathon**. The project demonstrates the principles of **oversampling**, **noise shaping**, and **digital decimation filtering**, while evaluating converter performance through **FFT analysis**, **Signal-to-Noise Ratio (SNR)**, and **Effective Number of Bits (ENOB)** metrics.
 
 ---
