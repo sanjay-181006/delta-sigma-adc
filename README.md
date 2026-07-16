@@ -118,19 +118,15 @@ This complements the Simulink behavioral model by providing insight into the und
 
 ## ▶️ Getting Started
 
-### 1. Initialize Workspace Variables
 
-```matlab
-AssignVar
-```
 
-### 2. Open the Simulink Model
+### 1. Open the Simulink Model
 
 ```matlab
 open_system('DeltaSigma_ADC.slx')
 ```
 
-### 3. Run the Analysis Script
+### 2. Run the Analysis Script
 
 ```matlab
 Simulation_Code
