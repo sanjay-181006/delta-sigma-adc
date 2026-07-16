@@ -98,7 +98,7 @@ This complements the Simulink behavioral model by providing insight into the und
 |:---|:---|
 | Input Frequency | 13 Hz |
 | Signal Bandwidth | 1000 Hz |
-| Input Amplitude | 0.66 |
+| Input Amplitude | 0.6601 |
 | DC Offset | 0.5 |
 | Quantizer Resolution | 1-bit |
 | Simulation Duration | 2 s |
