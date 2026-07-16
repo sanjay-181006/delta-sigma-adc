@@ -2,7 +2,7 @@ clear; clc; close all;
 
 F_out = 1000;
 F_in  = 13;
-A_in  = 0.66;
+A_in  = 0.6601;
 T_sim = 2;
 
 osr_array = [64 128 256];
